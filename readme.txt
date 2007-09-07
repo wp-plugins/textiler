@@ -3,6 +3,7 @@ Contributors: iwongu
 Tags: post, formatting, textile
 Requires at least: 2.0
 Tested up to: 2.2
+Stable tag: 1.0
 
 This plugin supports Textile syntax for posts.
 
