@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Textiler
-Plugin URI: http://ideathinking.com/wiki/index.php/WordPress:Textiler
+Plugin URI: http://ideathinking.com/wiki/index.php/WordPress:TextilerPlugin
 Description: This plugin supports Textile syntax for posts.
 Version: 1.1
 Author: Wongoo Lee
